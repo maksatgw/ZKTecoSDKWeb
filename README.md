@@ -16,14 +16,18 @@ I run this app with Windows 10 - 64 Bit with ZKTeco MB20 Device.
 
 ### Steps 
 - Create an ASP .NET WEB App
+
 ![choose project](https://i.ibb.co/KhqLsvn/1.png)
 - Set Your Application for x86 Builds
+
 ![x86](https://i.ibb.co/hBBTZdb/4.png)
--
+
 ![x86](https://i.ibb.co/1TBB0Y2/5.png)
--
+
 ![x86](https://i.ibb.co/7j5mN8F/6.png)
+
 - Configure the zkeemkeeper.dll
+
 ![dll](https://i.ibb.co/7gTDRXf/7.png)
 
 ## Issues
